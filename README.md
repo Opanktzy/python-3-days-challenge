@@ -8,8 +8,8 @@ problem solving, and practical Python development.
 ### Day 1 — Modules & OOP
 
 - [x] math calculator
-- [ ] random guessing game
-- [ ] os file explorer
+- [x] random guessing game
+- [x] os file explorer
 - [ ] class & object
 - [ ] BankAccount
 - [ ] Student Management System
