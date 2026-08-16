@@ -10,8 +10,8 @@ problem solving, and practical Python development.
 - [x] math calculator
 - [x] random guessing game
 - [x] os file explorer
-- [ ] class & object
-- [ ] BankAccount
+- [x] class & object
+- [x] BankAccount
 - [ ] Student Management System
 
 ### Day 2 — Data Structures & Algorithms
