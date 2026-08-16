@@ -12,7 +12,7 @@ problem solving, and practical Python development.
 - [x] os file explorer
 - [x] class & object
 - [x] BankAccount
-- [ ] Student Management System
+- [x] Student Management System
 
 ### Day 2 — Data Structures & Algorithms
 
