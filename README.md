@@ -16,9 +16,9 @@ problem solving, and practical Python development.
 
 ### Day 2 — Data Structures & Algorithms
 
-- [ ] List exercises
-- [ ] Dictionary exercises
-- [ ] Set exercises
+- [x] List exercises
+- [x] Dictionary exercises
+- [x] Set exercises
 - [ ] Linear Search
 - [ ] Binary Search
 - [ ] Bubble Sort
