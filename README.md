@@ -30,7 +30,8 @@ problem solving, and practical Python development.
 - [x] File Handling
 - [x] Generators
 - [x] Decorators
-- [ ] Threading
+- [x] Threading
+- [x] Concurrency
 - [ ] Requests
 - [ ] NumPy
 - [ ] Pandas
