@@ -27,9 +27,9 @@ problem solving, and practical Python development.
 
 ### Day 3 — Advanced Python
 
-- [ ] File Handling
-- [ ] Generators
-- [ ] Decorators
+- [x] File Handling
+- [x] Generators
+- [x] Decorators
 - [ ] Threading
 - [ ] Requests
 - [ ] NumPy
