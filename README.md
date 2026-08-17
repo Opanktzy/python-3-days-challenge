@@ -36,10 +36,10 @@ problem solving, and practical Python development.
 - [x] NumPy
 - [x] Pandas
 - [x] Matplotlib
-- [ ] Final Project
+- [X] Final Project
 
 ## Final Project
 
 Python CLI Data Management System
 
-Status: `Started`
+Status: `finished`
