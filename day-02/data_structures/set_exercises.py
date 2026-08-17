@@ -51,24 +51,30 @@ def add_product():
     price = int(input("Masukan Harga Produk: "))
     products[name] = price
     print(f"Produk {name} berhasil ditambahkan.")
+    return main()
 def update_product():
     name = input("Masukan Nama Produk: ")
     if name in products:
         price = int(input("Masukan Harga: "))
         products[name] = price
         print(f"Produk {name} berhasil diperbarui.")
+        return main()
     else:
         print("Produk tidak ditemukan.")
+        return main()
 def delete_product():
     name = input("Masukan Nama Produk: ")
     if name in products:
         del products[name]
         print(f"Produk {name} berhasil dihapus.")
+        return main()
     else:
         print("Produk tidak ditemukan.")
+        return main()
 def calculate_total_price():
     total = sum(products.values())
     print(f"Total harga semua produk: {total}")
+    return main()
 
 
 main()
