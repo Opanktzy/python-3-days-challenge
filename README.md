@@ -32,10 +32,10 @@ problem solving, and practical Python development.
 - [x] Decorators
 - [x] Threading
 - [x] Concurrency
-- [ ] Requests
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Matplotlib
+- [x] Requests
+- [x] NumPy
+- [x] Pandas
+- [x] Matplotlib
 - [ ] Final Project
 
 ## Final Project
