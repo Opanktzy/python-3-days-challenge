@@ -1,0 +1,5 @@
+student_id,name,age,gender,grade,major,subjects
+STU001,Budi Santoso,20,Laki-laki,85.5,Informatika,Algoritma, Struktur Data, Basis Data
+STU002,Siti Rahayu,21,Perempuan,92.0,Informatika,Algoritma, Pemrograman Web, Jaringan
+STU003,Agus Wijaya,19,Laki-laki,78.0,Sistem Informasi,Basis Data, Analisis Sistem, Manajemen Proyek
+STU004,Dewi Putri,22,Perempuan,88.5,Informatika,Algoritma, Basis Data, Kecerdasan Buatan
