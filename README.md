@@ -19,11 +19,11 @@ problem solving, and practical Python development.
 - [x] List exercises
 - [x] Dictionary exercises
 - [x] Set exercises
-- [ ] Linear Search
-- [ ] Binary Search
-- [ ] Bubble Sort
-- [ ] Exception Handling
-- [ ] Inventory Management
+- [x] Linear Search
+- [x] Binary Search
+- [x] Bubble Sort
+- [x] Exception Handling
+- [x] Inventory Management
 
 ### Day 3 — Advanced Python
 
